@@ -14,7 +14,7 @@ This tool provides a simple user interface for loading such XMLs, presenting the
 
 ![Trados Studio XML Analysis Viewer screenshot](https://user-images.githubusercontent.com/4114200/62833522-d04ec080-bc48-11e9-8334-43e5367efd5f.png)
 
-## Buid environment
+## Tool & build environment
 - [Visual Studio IDE](https://visualstudio.microsoft.com/)
 
 ## Pre-built file
