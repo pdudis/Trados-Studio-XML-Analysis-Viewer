@@ -21,7 +21,7 @@ This tool provides a simple user interface for loading such XMLs, presenting the
 You can download a pre-built version (.EXE) of this tool from [here](https://drive.google.com/file/d/113ffu2oPJhMLeJa-5G3JFyNbwv5SGE1M/view?usp=sharing).
 
 ## Notes
-- To see the analysis of a specific file, click on it in the File List box. 
+- To see the analysis of a specific file (of a loaded XML/SDLPPX), click on it in the File List box. 
 - The code is quite rough around the edges and, yes, it's been written in VB.NET (what a sacrilege, I know...). But, I needed something up and running quickly, so spare me the flame wars.
 - The application uses the [Microsoft .NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130) so you might be requested to install it if not present. Usually, this is already installed on your system.
 - Your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software and see for yourself.
