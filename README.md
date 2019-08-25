@@ -26,3 +26,9 @@ You can download a pre-built version (.EXE) of this tool from [here](https://dri
 - The application uses the [Microsoft .NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130) so you might be requested to install it if not present. Usually, this is already installed on your system.
 - Your web browser and/or Windows operating system may, incorrectly, flag the download/application as not safe. The reason for this is that the software has not been signed with a developer's certificate. Since I'm not a professional developer, and certificates cost money, the tool has been left unsigned. If you're still uncertain, you can easily scan the file with your anti-virus software and see for yourself.
 - Application icon from [Icons8](https://icons8.com).
+
+## Like what you see?
+
+If you find the **Trados Studio XML Analysis Viewer** interesting then why not buy me a coffee?
+
+[![BuyMeACoffee](https://user-images.githubusercontent.com/4114200/63639089-672f6a00-c698-11e9-9fac-3b6fcac47901.png)](https://www.buymeacoffee.com/ADYsLjqfi)
