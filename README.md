@@ -15,10 +15,10 @@ This tool provides a simple user interface for loading such XMLs, presenting the
 ![Trados Studio XML Analysis Viewer screenshot](https://user-images.githubusercontent.com/4114200/62833522-d04ec080-bc48-11e9-8334-43e5367efd5f.png)
 
 ## Tool & build environment
-- [Visual Studio IDE](https://visualstudio.microsoft.com/)
+- [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/)
 
 ## Pre-built file
-You can download a pre-built version (.EXE) of this tool from [here](https://drive.google.com/file/d/113ffu2oPJhMLeJa-5G3JFyNbwv5SGE1M/view?usp=sharing).
+You can download a pre-built version (.EXE) of this tool from [here](https://www.dropbox.com/s/0la1p9480idrl32/Trados%20Studio%20XML%20Analysis%20Viewer%20v1.1.zip?dl=0).
 
 ## Notes
 - To see the analysis of a specific file (of a loaded XML/SDLPPX), click on it in the File List box. 
