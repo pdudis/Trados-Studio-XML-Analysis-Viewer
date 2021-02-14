@@ -18,7 +18,7 @@ This tool provides a simple user interface for loading such XMLs, presenting the
 - [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/)
 
 ## Pre-built file
-You can download a pre-built version (.EXE) of this tool from [here](https://www.dropbox.com/s/0la1p9480idrl32/Trados%20Studio%20XML%20Analysis%20Viewer%20v1.1.zip?dl=0).
+You can download a pre-built version (.EXE) of this tool from the [Releases](https://github.com/pdudis/Trados-Studio-XML-Analysis-Viewer/releases) page, or from [Dropbox](https://www.dropbox.com/s/0la1p9480idrl32/Trados%20Studio%20XML%20Analysis%20Viewer%20v1.1.zip?dl=0).
 
 ## Notes
 - To see the analysis of a specific file (of a loaded XML/SDLPPX), click on it in the File List box. 
