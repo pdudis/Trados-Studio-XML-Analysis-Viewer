@@ -2,7 +2,7 @@
 View Trados Studio XML Analysis Reports.
 
 ## What's it all about...
-The **Trados Studio XML Analysis Viewer** is a free tool for reading XML logs generated in [SDL Trados Studio](https://www.sdl.com/software-and-services/translation-software/sdl-trados-studio/). Translators receiving such files have no easy way of viewing them in a quick and meaningful way, forcing them to request help or extra information from the sender of the file.
+The **Trados Studio XML Analysis Viewer** is a free tool for reading XML logs generated in [Trados Studio](https://www.rws.com/localization/products/trados-studio/). Translators receiving such files have no easy way of viewing them in a quick and meaningful way, forcing them to request help or extra information from the sender of the file.
 
 This tool provides a simple user interface for loading such XMLs, presenting the contained information in a concise, straightforward manner. In addition to XML logs, this tool is also able to access Trados Studio Project Packages (.sdlppx files), presenting the included XML analysis reports in the same way. It's worth mentioning that both of these functions (viewing directly XML logs or XMLs from SDLPPXs) **do not** require the use or presence of Trados Studio. This feature makes it an ideal companion to translators that do not use or have Trados Studio.
 
